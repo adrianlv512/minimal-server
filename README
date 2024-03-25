@@ -1,1 +1,5 @@
+install flyctl (https://fly.io/docs/hands-on/install-flyctl/)
+run 'fly login'
 update app and primary_region in fly.toml
+run 'fly launch'
+run 'fly deploy'
